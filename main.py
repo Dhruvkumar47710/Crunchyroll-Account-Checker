@@ -59,9 +59,9 @@ def my_ui():
 \t\t   ______                      __                     ____
 \t\t  / ____/______  ______  _____/ /_  __  ___________  / / /
 \t\t / /   / ___/ / / / __ \/ ___/ __ \/ / / / ___/ __ \/ / / 
-\t\t/ /___/ /  / /_/ / / / / /__/ / / / /_/ / /  / /_/ / / /  
+\t\t/ /___/ /  / /_/ / / / / /__/ / / / /
 \t\t\____/_/   \__,_/_/ /_/\___/_/ /_/\__, /_/   \____/_/_/   
-\t\t                                 /____/                     [ .gg/hcuxjpSfkU ] 
+\t\t                                 /____/       hcuxjpShcuxjpSfkUh/hcuxjpShcuxjpShcuxjphcuxjpShcuxjpSfkUhghcuxjpShcuxjpShcuxjphcuxjpShcuxjpSfkUhghcuxjpShcuxjpShcuxjphcuxjpShcuxjpSfkUhg
 \t\t   ________              __                                 [ github.com/H4cK3dR4Du ]
 \t\t  / ____/ /_  ___  _____/ /_____  _____                     [ imh4ck3dr4du ]
 \t\t / /   / __ \/ _ \/ ___/ //_/ _ \/ ___/
